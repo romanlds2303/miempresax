@@ -1,0 +1,5 @@
+1-Crear un proyecto en una carpeta individual
+2- Iniciamos un repo con Git local
+3- Iniciamos un repo en Github
+4- Hacemos un push del proyecto
+5-Vamos a settings en Github Pages
