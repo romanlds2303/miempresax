@@ -3,3 +3,5 @@
 3- Iniciamos un repo en Github
 4- Hacemos un push del proyecto
 5-Vamos a settings en Github Pages
+6-Seleccionamos la rama que queremos deployar
+7-Guardamos los cambios y esperamos 5/10 minutos para verlo en un link
