@@ -1,0 +1,39 @@
+/* 2. regla para el uso de una tipografia local - descargada */
+
+@font-face{
+    font-family: "Coffee";
+    src:url("../assets/tipografia/Coffee\ Normal.ttf");
+    src:url("../assets/tipografia/Coffee\ Normal.otf");
+}
+
+ol li{
+    color: brown;
+}
+
+/*3. link de la tipografia que usaremos */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+p{
+    font-size: 24px;
+    /* 1. Tipografias del sistema */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.folder-font{
+    font-family: Coffee, "Source code Pro" ;
+    font-size: 36px;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+}
+
+.google-fonts{
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
